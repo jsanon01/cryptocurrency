@@ -1,4 +1,4 @@
-# Chapter 2. ============== Cryptocurrency, Bitcoin, Alt-coins =================
+# Chapter 2. ======= Cryptocurrency, Bitcoin, Alt-coins ==========
 
 ## 1) ------- What are Cryptocurrencies? -------
 
