@@ -1,6 +1,6 @@
-Chapter 2. ============== Cryptocurrency, Bitcoin, Alt-coins =================
+# Chapter 2. ============== Cryptocurrency, Bitcoin, Alt-coins =================
 
-1) ------- What are Cryptocurrencies? -------
+## 1) ------- What are Cryptocurrencies? -------
 
 Cryptocurrency not only operates independently of a central bank but also is
 a digital currency using cryptography to accomplish 2 results:
