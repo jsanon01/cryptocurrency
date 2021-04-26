@@ -1,6 +1,6 @@
-# Chapter 2. ======= Cryptocurrency, Bitcoin, Alt-coins ==========
+# Chapter 2. === Cryptocurrency, Bitcoin, Alt-coins ====
 
-## 1) ------- What are Cryptocurrencies? -------
+### 1) ------- What are Cryptocurrencies? -------
 
 Cryptocurrency not only operates independently of a central bank but also is
 a digital currency using cryptography to accomplish 2 results:
@@ -22,12 +22,12 @@ Optimistic people see lots of advantages:
 
 - no middle man (to make profit)
 
-2) -------- Why Bitcoin? ---------
+### 2) -------- Why Bitcoin? ---------
 
 Bitcoin has been the first cryptocurrency since the begining not only having
 many advantages but also contributing to its popularity.
 
-3) -------- How Bitcoin transactions work? ---------
+### 3) -------- How Bitcoin transactions work? ---------
 
 Bitcoin transactions work with a wallet (digtal file containing your public
 key = username & private key = like a password)
@@ -40,7 +40,7 @@ key = username & private key = like a password)
 
 => Simply put, public key is to bank account number what private key is to PIN.
 
-<-------- Blockchain / How Bitcoinn transactions work? --------->
+### <----- Blockchain / How Bitcoin transactions work? ------>
 
 Behind all transactions there is a technoogy called 'Blockchain' acting like
 a general/public ledger.
@@ -51,7 +51,7 @@ protected (with others made in the same period by miners)
 - Miners are very powerful computers that not only record and approve
 transactions but also get small fees for their work.
 
-4) -------- Main Disadvantages of Bitcoin  ---------
+### 4) -------- Main Disadvantages of Bitcoin  ---------
 
 1. Bitcoin is not anonymous (every one can see your transactions in the
    blockckain meaning 2 public keys eventhough the can be changed later on )
@@ -74,7 +74,7 @@ transactions but also get small fees for their work.
 
 9. It needs Internet (not suitable for 3rd world countries)
 
-5) -------- Why Disadvantages Can Create Big Opportunities ---------
+### 5) -------- Why Disadvantages Can Create Big Opportunities ---------
 
 - Massaru Ibuka, co-founder of SONY and inventor of Walkman, noticed that existing 5 Lbs portable player (TC-D5) was not appropriate not only in every day use but also in airplane while listening to Opera.
 
@@ -82,14 +82,14 @@ transactions but also get small fees for their work.
 
 - Litecoins transactions are processed in 3 minutes (similar to Bitcoin)
 
-6) -------- Alternative coins ---------
+### 6) -------- Alternative coins ---------
 
 An alt-coin is abbreviated to "alternative to Bitcoin."
 
 - Bitcoin is the 1st cryptocurrency, and 100 have been created years after. For more info, visit 
    www.coinmarketcap.com
 
-7) -------- How people become millionaires with these altcoins ---------
+### 7) -------- How people become millionaires with these altcoins ---------
 
 - Monero        in 2015 worth $0.36  and in 2017 worth $153.31 => x426 (11/2 year)
 
@@ -107,7 +107,7 @@ An alt-coin is abbreviated to "alternative to Bitcoin."
 
 => There are/were some cryptocurrencies that don't work properly (pitfalls)
 
-8) -------- How to understand the value of an altcoin ---------
+### 8) -------- How to understand the value of an altcoin ---------
 
 What altcoins should you buy?
 
