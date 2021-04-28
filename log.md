@@ -1,4 +1,6 @@
-# Chapter 2. === Cryptocurrency, Bitcoin, Alt-coins ====
+# Chapter 2. 
+
+## === Cryptocurrency, Bitcoin, Alt-coins ====
 
 ### 1) ------- What are Cryptocurrencies? -------
 
@@ -123,7 +125,9 @@ What altcoins should you buy?
 
 #### => Demand > Supply (price increasing)
 
-# Chapter 3. === Types of Wallett ===
+# Chapter 3.
+
+## === Types of Wallett ===
 
 ### 1) -------- Types of Wallets  ---------
 
