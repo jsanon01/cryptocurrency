@@ -2,8 +2,7 @@
 
 ### 1) ------- What are Cryptocurrencies? -------
 
-Cryptocurrency not only operates independently of a central bank but also is
-a digital currency using cryptography to accomplish 2 results:
+Cryptocurrency not only operates independently of a central bank but also is a digital currency using cryptography to accomplish 2 results:
 
 - Create new coins
 
@@ -14,13 +13,13 @@ to buy goods and services (it came in 2008 after the financial crisis)
 
 As the driving force, Cryptocurrency belongs to anyone who is willing to use it.
 
-Optimistic people see lots of advantages:
+#### Optimistic people see lots of advantages:
 
-- no government (to regulate)
+- No government (to regulate)
 
-- no central bank (control)
+- No central bank (control)
 
-- no middle man (to make profit)
+- No middle man (to make profit)
 
 ### 2) -------- Why Bitcoin? ---------
 
@@ -38,15 +37,14 @@ key = username & private key = like a password)
 
 - A QR code that you can scan is also available.
 
-=> Simply put, public key is to bank account number what private key is to PIN.
+#### => Simply put, public key is to bank account number what private key is to PIN.
 
 ### <----- Blockchain / How Bitcoin transactions work? ------>
 
 Behind all transactions there is a technoogy called 'Blockchain' acting like
 a general/public ledger.
 
-- The reason transactions take 10-20 minutes because they are cryptographically
-protected (with others made in the same period by miners)
+- The reason transactions take 10-20 minutes because they are cryptographically protected (with others made in the same period by miners)
 
 - Miners are very powerful computers that not only record and approve
 transactions but also get small fees for their work.
@@ -103,9 +101,9 @@ An alt-coin is abbreviated to "alternative to Bitcoin."
 
 - Digibyte      in 3/2017 worth $0.002 and in 6/2017 worth $0.0652 => x326 (3 months)
 
-=> A return of 1000% or more is possible in cryptocurrencies (on bright side)
+#### => A return of 1000% or more is possible in cryptocurrencies (on bright side)
 
-=> There are/were some cryptocurrencies that don't work properly (pitfalls)
+#### => There are/were some cryptocurrencies that don't work properly (pitfalls)
 
 ### 8) -------- How to understand the value of an altcoin ---------
 
@@ -123,4 +121,92 @@ What altcoins should you buy?
 
 6. Altcoins that are close to their maximum supply (17/21 Millions)
 
-=> Demand > Supply (price increasing)
+#### => Demand > Supply (price increasing)
+
+# Chapter 3. ============== Types of Wallett =================
+
+### 1) -------- Types of Wallets  ---------
+
+1. Online wallets (web wallets accessible from anywhere)
+
+2. software wallets (applications downloaded to devices)
+
+3. Hardware wallets (physucal devices designed to secure Bitcoin)
+
+4. Paper wallets (printed from an offline computer)e containing your public
+
+In real world, you have checking, saving, banking accounts and safes meaning different options; it is the same way in cryptocurrencies.
+
+Bitcoin wallets are designed to secure huge amount of money while other wallets are designed for daily transactions.
+
+### 2) -------- Hardware Wallet ---------
+
+They're small computers or smart cards generating bitcoin private keys offline. Such examples are: 
+Ledger Nano S and Trezor.
+
+A wallet is used to generate a private key in order to store your coins and process your transactions.
+
+when choosing a wallet, safety and convenience are mandatory
+
+- Safety means that it is hard to lose your money.
+
+- Convenience means that it's easy to process transactions.
+
+Hardware wallet is more suitable than safety than convenience.
+
+### 3) -------- Software Wallet ---------
+
+Software wallet not only is the most popular way to store on tablets, and mobile phone but also gives more flexibility and control of your transactions.
+
+### 2 main risks may occur when dealing with Bitcoin data (not recommended):
+
+- Computer may be hacked
+
+- Computer may stop working
+
+### 2 ways to protect your software wallet:
+
+- Encrypt the wallet
+
+- Backup your wallet
+
+### 4) -------- Paper Wallet ---------
+
+- it keeps yours keys offline (independent of a computer)
+
+- it is an offline storage wallet (suitable for large amount of cryptocurrency)
+
+- it can't be hacked (the most secure one)
+
+- it contains Private, Public keys and QR code (for quick scanning).
+    Visit www.bitaddress.org
+
+### 5) -------- Web Wallet ---------
+
+- It's like a bank having your money there. EXamples: coinbase, circle
+
+- It operates online
+
+- best choice for small investors
+
+- most convenient wallet for those are not computer-friendly
+
+### 2 main risks
+
+- someone can hack your account
+
+- someone can hack the entire web wallet
+
+### => In real world, if a bank declares bankruptcy, Central Bank will usually bail a bank to prevent a major shakeup.No Guaranty to get money back!
+
+### 6) -------- Which Wallet is the best? ---------
+
+All wallets have pros and cons meaning strengths and weaknesses:
+
+- Investing $1000 suggest 'Paper Wallet' or 'Hardware Wallet'
+
+- investing less than $1000 suggets 'Web Wallet.' => Coinbase
+
+- You can use more than 1 wallet:
+
+  Ex. $11,000 = $5K in Paper +  $5K in Hadrware +  $1K Web
