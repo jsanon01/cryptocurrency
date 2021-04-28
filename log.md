@@ -76,9 +76,9 @@ transactions but also get small fees for their work.
 
 ### 5) -------- Why Disadvantages Can Create Big Opportunities ---------
 
-- Massaru Ibuka, co-founder of SONY and inventor of Walkman, noticed that existing 5 Lbs portable player (TC-D5) was not appropriate not only in every day use but also in airplane while listening to Opera.
+- Massaru Ibuka, co-founder of SONY and inventor of Walkman, noticed that existing 5 Lbs portable player (TC-D5) was not appropriate not only in every day use but also in airplane while listening to Opera. As a result, SONY invents walkman.
 
-- You can invest in a cryptocurrency solving problems Bitcoin has.
+- You can invest in a cryptocurrency solving problems that Bitcoin has.
 
 - Litecoins transactions are processed in 3 minutes (similar to Bitcoin)
 
@@ -111,7 +111,7 @@ An alt-coin is abbreviated to "alternative to Bitcoin."
 
 What altcoins should you buy?
 
-1. those that are quoted (present) in many major exchanges (1 exchange not ok)
+1. Those that are always present (quoted) in many major exchanges (1 exchange not ok)
 
 2. Altcoins with valid projects (with technical and viable  solutions)
 
@@ -133,9 +133,9 @@ What altcoins should you buy?
 
 1. Online wallets (web wallets accessible from anywhere)
 
-2. software wallets (applications downloaded to devices)
+2. Software wallets (applications downloaded to devices)
 
-3. Hardware wallets (physucal devices designed to secure Bitcoin)
+3. Hardware wallets (physical devices designed to secure Bitcoin)
 
 4. Paper wallets (printed from an offline computer)e containing your public
 
@@ -150,7 +150,7 @@ Ledger Nano S and Trezor.
 
 A wallet is used to generate a private key in order to store your coins and process your transactions.
 
-When choosing a wallet, safety and convenience are mandatory
+When choosing a wallet, safety and convenience are mandatory.
 
 - Safety means that it is hard to lose your money.
 
@@ -195,13 +195,14 @@ Software wallet not only is the most popular way to store on tablets, and mobile
 
 - Most convenient wallet for those are not computer-friendly
 
-### 2 main risks
+### 2 Main Risks
 
 - Someone can hack your account
 
 - Someone can hack the entire web wallet
 
-### => In real world, if a bank declares bankruptcy, Central Bank will usually bail a bank to prevent a major shakeup.No Guaranty to get money back!
+### => In real world, if a bank declares bankruptcy, Central Bank will usually bail a bank to prevent a major shakeup. 
+###    In cryptocurrency, there is No Guarantee to get money back!
 
 ### 6) -------- Which Wallet is the best? ---------
 
