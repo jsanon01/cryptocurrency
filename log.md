@@ -123,7 +123,7 @@ What altcoins should you buy?
 
 #### => Demand > Supply (price increasing)
 
-# Chapter 3. ============== Types of Wallett =================
+# Chapter 3. === Types of Wallett ===
 
 ### 1) -------- Types of Wallets  ---------
 
@@ -146,7 +146,7 @@ Ledger Nano S and Trezor.
 
 A wallet is used to generate a private key in order to store your coins and process your transactions.
 
-when choosing a wallet, safety and convenience are mandatory
+When choosing a wallet, safety and convenience are mandatory
 
 - Safety means that it is hard to lose your money.
 
@@ -172,13 +172,13 @@ Software wallet not only is the most popular way to store on tablets, and mobile
 
 ### 4) -------- Paper Wallet ---------
 
-- it keeps yours keys offline (independent of a computer)
+- It keeps yours keys offline (independent of a computer)
 
-- it is an offline storage wallet (suitable for large amount of cryptocurrency)
+- It is an offline storage wallet (suitable for large amount of cryptocurrency)
 
-- it can't be hacked (the most secure one)
+- It can't be hacked (the most secure one)
 
-- it contains Private, Public keys and QR code (for quick scanning).
+- It contains Private, Public keys and QR code (for quick scanning).
     Visit www.bitaddress.org
 
 ### 5) -------- Web Wallet ---------
@@ -187,15 +187,15 @@ Software wallet not only is the most popular way to store on tablets, and mobile
 
 - It operates online
 
-- best choice for small investors
+- Best choice for small investors
 
-- most convenient wallet for those are not computer-friendly
+- Most convenient wallet for those are not computer-friendly
 
 ### 2 main risks
 
-- someone can hack your account
+- Someone can hack your account
 
-- someone can hack the entire web wallet
+- Someone can hack the entire web wallet
 
 ### => In real world, if a bank declares bankruptcy, Central Bank will usually bail a bank to prevent a major shakeup.No Guaranty to get money back!
 
@@ -205,7 +205,7 @@ All wallets have pros and cons meaning strengths and weaknesses:
 
 - Investing $1000 suggest 'Paper Wallet' or 'Hardware Wallet'
 
-- investing less than $1000 suggets 'Web Wallet.' => Coinbase
+- Investing less than $1000 suggets 'Web Wallet.' => Coinbase
 
 - You can use more than 1 wallet:
 
