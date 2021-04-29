@@ -220,15 +220,15 @@ All wallets have pros and cons meaning strengths and weaknesses:
   
   ### === Setting up Your Account ===
 
-1) -------- Setting up your wallet in 2 minutes ---------
+### 1) -------- Setting up Your Wallet in 2 minutes ---------
 
 1) Go to www.coinbase.com
 
-2) follow the steps
+2) Follow the steps
 
-3) allow payment methods such as paypal, debit/credit cards
+3) Allow payment methods such as paypal, debit/credit cards
 
-2) -------- Create your account with the exchange ---------
+### 2) -------- Create Your Account with The Exchange ---------
 
 BITTREX is the nex-generation digital currency
 
@@ -242,29 +242,35 @@ BITTREX is the nex-generation digital currency
 
 - not suggested to keep huge amount of money there (in exchange)
 
-4) -------- Transferring Bitcoin from wallet to the exchange ---------
+### 3) -------- Validating Names ---------
 
-- web wallet with coinbase (money)
+Bittrex not only verify first and last names but also validate them using Government passports.
 
-- web account with bittrex (exchange
+### =>It takes up to 24 days or more before an account is verified...
 
-1) go on bittrex and select wallet/bitcoin (icon)
+### 4) -------- Transferring Bitcoin from Wallet to The Exchange ---------
 
-2) click on (+) button to deposit
+- Web Wallet with Coinbase (money)
+
+- Web Account with Bittrex (exchange
+
+1) Go on bittrex and select wallet/bitcoin (icon)
+
+2) Click on (+) button to deposit
 
 3) Address => copy hash address
 
-4) now go to coinbase to copy the address by clicking on accounts
+4) Now go to coinbase to copy the address by clicking on accounts
 
-5) select Bitcoin icon by clicking on (send) and Paste the hash address
+5) Select Bitcoin icon by clicking on (send) and Paste the hash address
 
-6) select the amount of bitcoin that I want to send / continue
+6) Select the amount of bitcoin that I want to send / continue
 
-7) allow SMS 2-step verification for more security
+7) Allow SMS 2-step verification for more security
 
-=> SMS security code is an extra protection for both websites
+### => SMS security code is an extra protection for both websites
 
-5) -------- How to buy your 1st cryptocurrncy? ---------
+### 5) -------- How to buy your 1st cryptocurrncy? ---------
 
 - Select BTC_MCO (Monaco currecy)in market column
 
