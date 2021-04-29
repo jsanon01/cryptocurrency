@@ -215,3 +215,67 @@ All wallets have pros and cons meaning strengths and weaknesses:
 - You can use more than 1 wallet:
 
   Ex. $11,000 = $5K in Paper +  $5K in Hadrware +  $1K Web
+
+  # Chapter 4. 
+  
+  ### === Setting up Your Account ===
+
+1) -------- Setting up your wallet in 2 minutes ---------
+
+1) Go to www.coinbase.com
+
+2) follow the steps
+
+3) allow payment methods such as paypal, debit/credit cards
+
+2) -------- Create your account with the exchange ---------
+
+BITTREX is the nex-generation digital currency
+
+- the most popoular and the biggest one
+
+- not advisable to let your money in exchange (acting like a broker)
+
+- in real world, Brokers regulated  & backed up by National Institutions refunding money in case of bankruptcy.
+
+- exchange in cryptocurrencies is Not regulated (no money back/BITTREX)
+
+- not suggested to keep huge amount of money there (in exchange)
+
+4) -------- Transferring Bitcoin from wallet to the exchange ---------
+
+- web wallet with coinbase (money)
+
+- web account with bittrex (exchange
+
+1) go on bittrex and select wallet/bitcoin (icon)
+
+2) click on (+) button to deposit
+
+3) Address => copy hash address
+
+4) now go to coinbase to copy the address by clicking on accounts
+
+5) select Bitcoin icon by clicking on (send) and Paste the hash address
+
+6) select the amount of bitcoin that I want to send / continue
+
+7) allow SMS 2-step verification for more security
+
+=> SMS security code is an extra protection for both websites
+
+5) -------- How to buy your 1st cryptocurrncy? ---------
+
+- Select BTC_MCO (Monaco currecy)in market column
+
+- Select Price in Trading section (Buy Monaco in box on left side)
+
+- Select Bid and chose ask price (the highest offer)
+
+- Select the quantity in Total
+
+- Click on the blue button ... (+) Buy
+
+  A report will pop up not only to show the transaction but also to confirm it...
+
+### => To complete a transaction, we need buyer (bid price) and seller (asking price).
