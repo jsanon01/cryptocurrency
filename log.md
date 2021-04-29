@@ -230,17 +230,17 @@ All wallets have pros and cons meaning strengths and weaknesses:
 
 ### 2) -------- Create Your Account with The Exchange ---------
 
-BITTREX is the nex-generation digital currency
+BITTREX is the nex-generation of digital currency
 
-- the most popoular and the biggest one
+- The most popoular and the biggest one
 
-- not advisable to let your money in exchange (acting like a broker)
+- Not advisable to let your money in exchange (acting like a broker)
 
-- in real world, Brokers regulated  & backed up by National Institutions refunding money in case of bankruptcy.
+- In real world, Brokers regulated  & backed up by National Institutions refunding money in case of bankruptcy.
 
-- exchange in cryptocurrencies is Not regulated (no money back/BITTREX)
+- Exchange in cryptocurrencies is Not regulated (no money back/BITTREX)
 
-- not suggested to keep huge amount of money there (in exchange)
+- Not suggested to keep huge amount of money there (in exchange)
 
 ### 3) -------- Validating Names ---------
 
