@@ -246,7 +246,7 @@ BITTREX is the nex-generation of digital currency
 
 Bittrex not only verify first and last names but also validate them using Government passports.
 
-### =>It takes up to 24 days or more before an account is verified...
+### => It takes up to 24 days or more before an account is verified...
 
 ### 4) -------- Transferring Bitcoin from Wallet to The Exchange ---------
 
@@ -284,4 +284,56 @@ Bittrex not only verify first and last names but also validate them using Govern
 
   A report will pop up not only to show the transaction but also to confirm it...
 
-### => To complete a transaction, we need buyer (bid price) and seller (asking price).
+### => To complete a transaction, we need buyer (for bid price) and seller (for asking price).
+
+6) -------- How to sell your 1st cryptocurrncy? ---------
+- Follow the same process (of buying) in the Sell section
+- When selling, you chose the bid price
+
+### 7) -------- Transferring Bitcoin from the Exchange to Wallet ---------
+
+- Click on wallet
+- Click on the icons where (+) to deposit & (-) to withdraw accordingly
+- Click on (-) to withdraw
+- Confirm Bitcoin Withdraw will pop up
+    -- Go to Coinbase / Accounts / BTC wallet and receive
+    -- BTC Wallet adrress will pop up
+    -- Click on blue button to 'Show the Address'
+    -- Copy the hash address
+- An and Paste it into BITTREX confirmation window
+- Select 'Quantity' meaning the amount of Bitcoin
+- Click on the blue button to 'Withdraw'
+- Click on the blue button to 'Confirm' (2-factor authentication code is required)
+
+### => One of the Pitfalls of Bitcoin is time-consuming...
+###    Average time for transaction is between 20 - 25 minutes ...
+
+### 8) -------- How to withdraw your money (Bitcoin to Euro wallet)? ---------
+- Go to Coinbase and Click on Buy/Sell
+- Click on Sell / Select the amount in 'Amount' section
+- Coinbase will show you the fee to pay in the blue button (instantly)
+- Right away, this amount of moeny will be transfered to your Euro wallet
+
+
+### 9) -------- Alternative to BITTREX ---------
+
+POLONIEX is an alternative to Bittrex.
+
+### => 2-factor authentication is highly recommended also.
+<!--
+Chapter 5. ============== What is Fundamental Analysis? =================
+
+1) -------- Fundamental Analysis  --------
+
+Fundamental Analysis is a method of evaluating a cryptocurrency in an attempt to
+measure its intrinsic value.
+
+Fundamental Analysis refers to qualitative and quantitative factors. such exaple is:
+- 1st look at the financials, the project, busniess plan, and other...
+in cryptocurrency, it is the same. You research the coin and evaluate if it can be a good investment or not.
+- Qualitative factors reside in research and due-diligence
+- Quantitative factors dwell in market capitalization, circulating and max supply,
+and the volume of transactions.
+
+2) -------- Research and Due-Diligence --------
+-->
