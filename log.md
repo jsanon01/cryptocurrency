@@ -286,7 +286,7 @@ Bittrex not only verify first and last names but also validate them using Govern
 
 ### => To complete a transaction, we need buyer (for bid price) and seller (for asking price).
 
-6) -------- How to sell your 1st cryptocurrncy? ---------
+### 6) -------- How to sell your 1st cryptocurrncy? ---------
 - Follow the same process (of buying) in the Sell section
 - When selling, you chose the bid price
 
