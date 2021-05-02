@@ -320,8 +320,10 @@ Bittrex not only verify first and last names but also validate them using Govern
 POLONIEX is an alternative to Bittrex.
 
 ### => 2-factor authentication is highly recommended also.
-<!--
-Chapter 5. ============== What is Fundamental Analysis? =================
+
+# Chapter 5. 
+
+### === What is Fundamental Analysis? ===
 
 1) -------- Fundamental Analysis  --------
 
@@ -336,4 +338,3 @@ in cryptocurrency, it is the same. You research the coin and evaluate if it can 
 and the volume of transactions.
 
 2) -------- Research and Due-Diligence --------
--->
