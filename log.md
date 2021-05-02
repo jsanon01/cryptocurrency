@@ -325,16 +325,15 @@ POLONIEX is an alternative to Bittrex.
 
 ### === What is Fundamental Analysis? ===
 
-1) -------- Fundamental Analysis  --------
+### 1) -------- Fundamental Analysis  --------
 
-Fundamental Analysis is a method of evaluating a cryptocurrency in an attempt to
-measure its intrinsic value.
+Fundamental Analysis is a method of evaluating a cryptocurrency in an attempt to measure its intrinsic value.
 
 Fundamental Analysis refers to qualitative and quantitative factors. such exaple is:
+
 - 1st look at the financials, the project, busniess plan, and other...
-in cryptocurrency, it is the same. You research the coin and evaluate if it can be a good investment or not.
 - Qualitative factors reside in research and due-diligence
 - Quantitative factors dwell in market capitalization, circulating and max supply,
 and the volume of transactions.
-
-2) -------- Research and Due-Diligence --------
+### => In cryptocurrency, it is the same meaning you research the coin and evaluate if it can be a good investment or not.
+### 2) -------- Research and Due-Diligence --------
