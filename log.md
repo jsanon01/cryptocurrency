@@ -317,7 +317,7 @@ Bittrex not only verify first and last names but also validate them using Govern
 
 ### 9) -------- Alternative to BITTREX ---------
 
-POLONIEX is an alternative to Bittrex.
+        POLONIEX is an alternative to Bittrex.
 
 ### => 2-factor authentication is highly recommended also.
 
@@ -335,5 +335,5 @@ Fundamental Analysis refers to qualitative and quantitative factors. such exaple
 - Qualitative factors reside in research and due-diligence
 - Quantitative factors dwell in market capitalization, circulating and max supply,
 and the volume of transactions.
-### => In cryptocurrency, it is the same meaning you research the coin and evaluate if it can be a good investment or not.
+### =>  In cryptocurrency, it is the same meaning you research the coin and evaluate if it can be a good investment or not.
 ### 2) -------- Research and Due-Diligence --------
