@@ -306,12 +306,17 @@ Bittrex not only verify first and last names but also validate them using Govern
 - Click on the blue button to 'Confirm' (2-factor authentication code is required)
 
 ### => One of the Pitfalls of Bitcoin is time-consuming...
+
 ###    Average time for transaction is between 20 - 25 minutes ...
 
 ### 8) -------- How to withdraw your money (Bitcoin to Euro wallet)? ---------
+
 - Go to Coinbase and Click on Buy/Sell
+
 - Click on Sell / Select the amount in 'Amount' section
+
 - Coinbase will show you the fee to pay in the blue button (instantly)
+
 - Right away, this amount of moeny will be transfered to your Euro wallet
 
 
@@ -332,8 +337,11 @@ Fundamental Analysis is a method of evaluating a cryptocurrency in an attempt to
 Fundamental Analysis refers to qualitative and quantitative factors. such exaple is:
 
 - 1st look at the financials, the project, busniess plan, and other...
+
 - Qualitative factors reside in research and due-diligence
-- Quantitative factors dwell in market capitalization, circulating and max supply,
-and the volume of transactions.
+
+- Quantitative factors dwell in market capitalization, circulating and max supply,and the volume of transactions.
+
 ### =>  In cryptocurrency, it is the same meaning you research the coin and evaluate if it can be a good investment or not.
+
 ### 2) -------- Research and Due-Diligence --------
