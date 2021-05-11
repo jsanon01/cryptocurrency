@@ -345,3 +345,44 @@ Fundamental Analysis refers to qualitative and quantitative factors. such exaple
 ### =>  In cryptocurrency, it is the same meaning you research the coin and evaluate if it can be a good investment or not.
 
 ### 2) -------- Research and Due-Diligence --------
+
+Before investing in any cryptocurrency, try to get as much as info as possible about that company. This website gives you qualitative info about your coin.
+www.coinmarketcap.com is the best place to explore some keywords.
+- White paper => that is a 'business plan' for cryptocurrencies.
+- Team => What kind of team is behind that company?
+- Value => What problem they solve to make them valuable?
+- Thread => be very careful about what they write in the thread, precisely about 'legendary members.'
+- Community => an active community is surely a positive sign.
+- explorer => displays info about the supply, value, transactions, and other things.
+- official links => info about the coin you invest (Facebook, Twitter, Reddit, email, blog... ) 
+- Go to www.coinmarketcap.com | click 'power ledger' on search bar ...
+Useful info will be display about 'Power Ledger' on the left side:
+    - website | - announcement
+    - explorer | - message board | - chat
+    - rank | tokens
+
+
+The difference between coin and token is as followed:
+
+- A 'coin' is a cryptocurrency operating independently.
+
+- A 'token' is a cryptocurrency depending on another cryptocurrency as a platform to operate.
+<!--
+### What is the Market Capitalization?
+
+Let's first understand the formula:
+#### Market cap = price x circulating supply
+- Bitcoin has a market cap of 200 B
+- ICONIC has a market cap of 37 K (easier to calculate)
+which one is more volatile in terms of huge investment?
+of course, Iconic (with huge gains & losses)
+Market cap is suitable for long term investment 
+### The market cap is important because it is associated to the level of risk taking by the investor.
+
+### The bigger the market cap, the lower the risk
+### The smaller the market cap, the higher the risk (especially when dropping 50% or more)
+
+### Circulating Supply vs Total Supply
+
+
+-->
