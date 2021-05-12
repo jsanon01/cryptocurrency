@@ -348,25 +348,36 @@ Fundamental Analysis refers to qualitative and quantitative factors. such exaple
 
 Before investing in any cryptocurrency, try to get as much as info as possible about that company. This website gives you qualitative info about your coin.
 www.coinmarketcap.com is the best place to explore some keywords.
+
 - White paper => that is a 'business plan' for cryptocurrencies.
+
 - Team => What kind of team is behind that company?
+
 - Value => What problem they solve to make them valuable?
+
 - Thread => be very careful about what they write in the thread, precisely about 'legendary members.'
+
 - Community => an active community is surely a positive sign.
-- explorer => displays info about the supply, value, transactions, and other things.
-- official links => info about the coin you invest (Facebook, Twitter, Reddit, email, blog... ) 
+
+- Explorer => displays info about the supply, value, transactions, and other things.
+
+- Official links => info about the coin you invest (Facebook, Twitter, Reddit, email, blog... ) 
+
 - Go to www.coinmarketcap.com | click 'power ledger' on search bar ...
-Useful info will be display about 'Power Ledger' on the left side:
-    - website | - announcement
-    - explorer | - message board | - chat
-    - rank | tokens
+Useful info will be displayed about 'Power Ledger' on the left side:
+    
+    - Website | - Announcement
+    
+    - Explorer | - Message board | - Chat
+    
+    - Rank | Tokens
 
 
-The difference between coin and token is as followed:
+#### The difference between coin and token is as followed:
 
-- A 'coin' is a cryptocurrency operating independently.
+#### - A 'coin' is a cryptocurrency operating independently.
 
-- A 'token' is a cryptocurrency depending on another cryptocurrency as a platform to operate.
+#### - A 'token' is a cryptocurrency depending on another cryptocurrency as a platform to operate.
 <!--
 ### What is the Market Capitalization?
 
