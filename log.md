@@ -371,7 +371,22 @@ Useful info will be displayed about 'Power Ledger' on the left side:
     - Explorer | - Message board | - Chat
     
     - Rank | Tokens
+#### =====================
 
+### What is ATM Hosting?
+
+- What is ATM hosting?
+
+ATM hosting is a place inside your business to host crypto ATM. Ideal for coffee shops, gas stations, and other cash-friendly spaces, our ATM hosting provides additional foot traffic and increase your revenue.
+
+Business owners who currently hold a crypto ATM report a 10-30% increase in sales - all from customers utilizing the machine. Our ATMs support all top market cryptocurrencies, and we provide the best market rates and services to customers.
+
+- Buy, sell, hold, transfer, and trade cryptocurrencies via Belco Wallet - the easiest way to manage crypto.
+
+- www.BeltcoBTM.com => ATM integrated crypto wallet
+
+
+#### =====================
 
 #### The difference between coin and token is as followed:
 
