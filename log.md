@@ -394,7 +394,7 @@ Business owners who currently hold a crypto ATM report a 10-30% increase in sale
 #### - A 'coin' is a cryptocurrency operating independently.
 
 #### - A 'token' is a cryptocurrency depending on another cryptocurrency as a platform to operate.
-<!--
+
 ### What is the Market Capitalization?
 
 Let's first understand the formula:
@@ -405,7 +405,7 @@ which one is more volatile in terms of huge investment?
 of course, Iconic (with huge gains & losses)
 Market cap is suitable for long term investment 
 ### The market cap is important because it is associated to the level of risk taking by the investor.
-
+<!--
 ### The bigger the market cap, the lower the risk
 ### The smaller the market cap, the higher the risk (especially when dropping 50% or more)
 
