@@ -383,7 +383,7 @@ Business owners who currently hold a crypto ATM report a 10-30% increase in sale
 
 - Buy, sell, hold, transfer, and trade cryptocurrencies via Belco Wallet - the easiest way to manage crypto.
 
-- www.BeltcoBTM.com => ATM integrated crypto wallet
+- www.BeltcoBTM.com => is an ATM integrated crypto wallet
 
 [BelcoBTM](https://belcobtm.com/)
 
