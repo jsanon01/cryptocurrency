@@ -405,10 +405,10 @@ which one is more volatile in terms of huge investment?
 of course, Iconic (with huge gains & losses)
 Market cap is suitable for long term investment 
 ### The market cap is important because it is associated to the level of risk taking by the investor.
-<!--
+
 ### The bigger the market cap, the lower the risk
 ### The smaller the market cap, the higher the risk (especially when dropping 50% or more)
-
+<!--
 ### Circulating Supply vs Total Supply
 
 
